@@ -55,7 +55,7 @@
 
 ### What I learned
 
-- Create a React Native App using Expo
+- Create a React App
 - Create a wireframe and high fidelity mockup using Figma.
 - Use ContextAPI for login
 - Use React Navigation (Native Stack) for screen routes.
